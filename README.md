@@ -1,3 +1,45 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Navbar.css
+│   ├── Header.jsx (si tienes encabezado aparte)
+│   └── Root.jsx
+├── Inicio/
+│   ├── Inicio.jsx
+│   └── inicio.css
+├── Nosotros/
+│   ├── Nosotros.jsx
+│   └── nosotros.css
+├── Regionales/
+│   ├── Regionales.jsx
+│   └── regionales.css
+├── Nacionales/
+│   ├── Nacionales.jsx
+│   └── nacionales.css
+├── RedesSociales/
+│   ├── RedesSociales.jsx
+│   └── redesSociales.css
+├── ActualidadNoticias/
+│   ├── ActualidadNoticias.jsx
+│   └── actualidadNoticias.css
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
