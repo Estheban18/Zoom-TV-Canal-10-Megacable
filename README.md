@@ -1,3 +1,7 @@
+
+
+
+----------------------------------------------------------------------------------------------------------
 src/
 ├── components/
 │   ├── Navbar.jsx
@@ -5,7 +9,7 @@ src/
 │   ├── Header.jsx (si tienes encabezado aparte)
 │   └── Root.jsx
 ├── Inicio/
-│   ├── Inicio.jsx
+│   ├── Inicio.jsx                                                CARPERTAS ORGANIZADAS 
 │   └── inicio.css
 ├── Nosotros/
 │   ├── Nosotros.jsx
@@ -22,6 +26,14 @@ src/
 ├── ActualidadNoticias/
 │   ├── ActualidadNoticias.jsx
 │   └── actualidadNoticias.css
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
