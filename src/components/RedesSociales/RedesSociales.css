@@ -1,0 +1,15 @@
+.redes-container {
+  padding: 2rem;
+  background-color: #fffbe6;
+  border-radius: 8px;
+}
+
+.redes-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.redes-container li {
+  margin-bottom: 0.5rem;
+}
+ 
